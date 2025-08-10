@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\LMSTask\LMSTask\obj\Debug\net6.0\LMSTask.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\LMSTask\LMSTask\obj\Debug\net6.0\LMSTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\LMSTask\LMSTask\obj\Debug\net6.0\LMSTask.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\LMSTask\LMSTask\obj\Debug\net6.0\LMSTask.AssemblyInfo.cs
+C:\Users\asus\Desktop\LMSTask\LMSTask\obj\Debug\net6.0\LMSTask.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\LMSTask\LMSTask\bin\Debug\net6.0\LMSTask.exe
+C:\Users\asus\Desktop\LMSTask\LMSTask\bin\Debug\net6.0\LMSTask.deps.json
+C:\Users\asus\Desktop\LMSTask\LMSTask\bin\Debug\net6.0\LMSTask.runtimeconfig.json
+C:\Users\asus\Desktop\LMSTask\LMSTask\bin\Debug\net6.0\LMSTask.dll
+C:\Users\asus\Desktop\LMSTask\LMSTask\bin\Debug\net6.0\LMSTask.pdb
+C:\Users\asus\Desktop\LMSTask\LMSTask\obj\Debug\net6.0\LMSTask.dll
+C:\Users\asus\Desktop\LMSTask\LMSTask\obj\Debug\net6.0\refint\LMSTask.dll
+C:\Users\asus\Desktop\LMSTask\LMSTask\obj\Debug\net6.0\LMSTask.pdb
+C:\Users\asus\Desktop\LMSTask\LMSTask\obj\Debug\net6.0\LMSTask.genruntimeconfig.cache
+C:\Users\asus\Desktop\LMSTask\LMSTask\obj\Debug\net6.0\ref\LMSTask.dll
